@@ -1,6 +1,6 @@
 # helloworld
 
-edit brance. edited on PC
+edit branch. edited on PC
 
 this is the 2nd edit
 
