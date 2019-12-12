@@ -28,4 +28,4 @@ add kraken
 added line to update w kraken
 add, smartgit
 
-added gitg
+added gitg, 2nd edit
