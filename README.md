@@ -26,5 +26,7 @@ kraken branch
 add kraken
 
 added line to update w kraken
+add, smartgit
 
-add gitkraken line
+added gitg, 2nd edit
+add gitkraken line, 2nd edit
